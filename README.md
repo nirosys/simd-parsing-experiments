@@ -17,5 +17,6 @@ mood I was in.
 ### Text
 
 * [commanum](commanum/) - A parser for a comma-separated integer grammar.
+* [binnums](binnums/) - A parser for a binary integer encoding.
 
 ### Binary
